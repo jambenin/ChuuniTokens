@@ -4,7 +4,7 @@ A simple ERC20 token contract that includes mint and burn functionalities, desig
 
 ## Description
 
-ChuuniTokens is a smart contract created on the Ethereum blockchain that mimics the functionality of an ERC20 token. The contract supports two main actions: **minting** new tokens and **burning** tokens. The mint function increases the total supply and balances of specified addresses, while the burn function decreases both the total supply and the balance of a specified address. This contract serves as a basic example of creating a custom token with minting and burning capabilities.
+ChuuniTokens is a smart contract created on the Ethereum blockchain that mimics the functionality of an ERC20 token. The contract supports two main actions: **minting** new tokens and **burning** tokens. 
 
 ## Getting Started
 
